@@ -1,0 +1,7 @@
+com\example\demo\config\SecurityConfig.class
+com\example\demo\controller\DemoController.class
+com\example\demo\entity\UserEntity.class
+com\example\demo\entity\RoleEntity.class
+com\example\demo\service\CustomUserDetailsService.class
+com\example\demo\MainApplication.class
+com\example\demo\repository\UserRepository.class
